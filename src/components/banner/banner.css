@@ -1,0 +1,38 @@
+.banner {
+  margin: 0;
+  padding: 0;
+  height: 10vh;
+  width: 100%;
+ 
+  display: inline-flex;
+  background-image: url("banner2.jpg")   ;
+ /*  background-repeat: no-repeat; */
+  
+  /* make the background image cover the whole page  */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.superText {
+  color: hsl(278, 77%, 22%);
+  margin-left: auto;
+  align-content: center;
+  justify-content: center;
+  align-content: center;
+  align-items: center ;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size:6em;
+}
+.seven {
+  color: rgb(150, 22, 22);
+}
+
+ .menu {
+   margin-left: auto; 
+  float: left;
+   align-content: left; 
+} 
+ 
