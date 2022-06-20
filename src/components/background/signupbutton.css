@@ -1,0 +1,32 @@
+.signupbox{
+    margin-top: 20px;
+    display: inline-flex;
+    height: 50px;
+    width: 500px;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    background-color: black;
+    border-radius: 15px;
+    font-size: 30px;
+    gap: 3vw;
+}
+
+
+.signupbutton{
+    background-color: yellow;
+    color: black;
+    height: auto;
+    font-size: 30px;
+    border-radius: 15px;
+    align-self: center;
+
+
+    border: none;
+  
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

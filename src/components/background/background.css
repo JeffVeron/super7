@@ -1,0 +1,21 @@
+.background {
+ 
+  background-color: #2b2b2a;
+ 
+  display: block;
+  
+  height: 100%;
+  
+  flex-wrap: wrap;
+  min-width: 100%;
+  overflow-x: hidden;
+  
+}
+
+.banner {
+  height: 40%;
+}
+
+.fixtures {
+  width: auto;
+}
