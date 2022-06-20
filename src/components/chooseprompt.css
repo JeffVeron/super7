@@ -1,0 +1,11 @@
+.background{
+     font-size: 3em;
+/*     background-color: brown; */
+    border-radius: 20px;
+    display: inline-flex;
+    justify-self: center;
+    height: 40px;
+    width: 40%;
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,42 @@
+.matchdaybox {
+  
+  
+   
+/*  gap: 2px; */
+  align-items: center;
+   flex-wrap: wrap;
+  font-size: 20px;
+  width: 300px;
+ /*  border: solid yellow 3px; */
+  display: inline-flex;
+  padding: 2px;
+  margin: 10px;
+  background-color: #333238;
+  border-radius: 20%;
+  cursor: pointer;
+
+}
+
+.matchdaybox :hover {
+  opacity: 50%;
+} 
+
+.p {
+  /*    align-items: center; */
+  justify-content: center;
+  padding-left: 20%;
+  text-align: center;
+}
+
+.droparrow {
+  margin: auto;
+  padding-top: 30px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: white;
+  /*  justify-content: center; */
+  align-self: center;
+  align-content: center;
+  position: relative;
+}
